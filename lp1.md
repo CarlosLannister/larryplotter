@@ -8,4 +8,4 @@ Tiene unas *Google Glass* redondas y una cicatriz *USB* en la frente.
 
 Un dia aparece **Neo**, el de *Matrix* y se lo lleva a una escuela de hacking.
 
-Allí conoce a sus amigos **ROM** y **Versión** y vive sus primeras aventuras picando codigo.
+Alli conoce a sus amigos **ROM** y **Version** y vive sus primeras aventuras picando codigo.
